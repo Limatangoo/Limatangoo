@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pasandamidu" target="blank"><img src="https://img.shields.io/twitter/follow/pasandamidu?logo=twitter&style=for-the-badge" alt="pasandamidu" /></a> </p>
 
-- 🔭 I’m currently Looking for **Software Engineering intern position**
+<!-- - 🔭 I’m currently Looking for **Software Engineering intern position** -->
 
 - 🌱 I’m currently learning **Java**
 
